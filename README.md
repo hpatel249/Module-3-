@@ -1,5 +1,5 @@
-# Electionproject
-##OVERVIEW OF THE PROJECT:
+# ElectionResults
+##OVERVIEW OF THE Election audit:
 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election using a set of programmatic tools of Python, Visual Studio Code, and Git.
 
