@@ -54,14 +54,3 @@ Winning Percentage: 73.8%
 
 Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
 
-
-
-
-##Resources
-Data Source: election_results.csv
-
-##Client requirements
-Software: Python 3.7.7, Visual Studio Code, 1.47.3, Git 2.27
-
-*Output document is in the text file.
-# electionproject_d1.txt
